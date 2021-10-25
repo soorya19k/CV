@@ -1,0 +1,30 @@
+body{
+  background-color: #CEE5D0;
+}
+
+hr{
+  border-style: dotted;
+
+  width: 7%;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-width:10px;
+
+}
+
+h1{
+  color: #4A403A;
+}
+
+.h3:hover{
+  color: #8E05C2;
+}
+
+h2:hover{
+  color: #8E05C2;
+}
+
+.text:active{
+  background-color: grey;
+}
