@@ -1,6 +1,9 @@
 body{
-  background-color: #CEE5D0;
+  background-color: #F1F9F9;
+  margin: 0;
 }
+
+
 
 hr{
   border-style: dotted;
@@ -17,20 +20,6 @@ h1{
   color: #4A403A;
 }
 
-.dp{
-  position: absolute;
-  left:5px;
-
-}
-
-
-.intro{
-  text-align: center;
-  position: relative;
-  left: 20px;
-  top:15px;
-}
-
 
 .h3:hover{
   color: #8E05C2;
@@ -44,3 +33,6 @@ h2:hover{
   background-color: grey;
 }
 
+.front-page{
+  width: 100%;
+}
